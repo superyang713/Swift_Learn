@@ -19,6 +19,8 @@ let numberOfHamsters = 1
 let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters
 
 let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
+print(totalNumberOfMammals)
+
 
 //: Now it will be much easier — and less error-prone — to update the number of a certain kind of animal. You only have to update the value where the constant is defined.
 //:
